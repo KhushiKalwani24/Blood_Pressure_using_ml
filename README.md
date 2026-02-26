@@ -52,46 +52,48 @@ The goal is to demonstrate a complete ML workflow — from data preprocessing to
 7. Jupyter Notebook
 
 📂 Project Structure
+
 Blood_Pressure_using_ml/
 │
 ├── Blood_pressure.ipynb     # Main Jupyter Notebook
 ├── README.md                # Project Documentation
+
 📊 Model Evaluation Metrics
 
-The model performance is evaluated using:
+1. The model performance is evaluated using:
 
-Accuracy Score
+2. Accuracy Score
 
-Confusion Matrix
+3. Confusion Matrix
 
-Precision
+4. Precision
 
-Recall
+5. Recall
 
-F1-Score
+6. F1-Score
 
 ▶️ How to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/your-username/Blood_Pressure_using_ml.git
+->git clone https://github.com/your-username/Blood_Pressure_using_ml.git
 
 Navigate to the project directory:
 
-cd Blood_Pressure_using_ml
+->cd Blood_Pressure_using_ml
 
 Install required dependencies:
 
-pip install -r requirements.txt
+->pip install -r requirements.txt
 
 Open the Jupyter Notebook:
 
 jupyter notebook
 📈 Expected Outcome
 
-The trained model predicts whether a person is likely to have high blood pressure based on given input features.
+->The trained model predicts whether a person is likely to have high blood pressure based on given input features.
 
-This project can be extended into:
+->This project can be extended into:
 
 A Web Application (Flask/Streamlit)
 
