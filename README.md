@@ -1,1 +1,121 @@
-# Blood_Pressure_using_ml
+🩺 Blood Pressure Prediction using Machine Learning
+📌 Overview
+
+High blood pressure (Hypertension) is one of the leading causes of heart diseases and strokes worldwide. Early prediction and monitoring can significantly reduce health risks.
+
+This project leverages Machine Learning algorithms to predict whether a person is likely to have high blood pressure based on medical and physiological parameters.
+
+The goal is to demonstrate a complete ML workflow — from data preprocessing to model evaluation — using Python and popular data science libraries.
+
+🚀 Project Objectives
+
+Perform data preprocessing and cleaning
+
+Conduct Exploratory Data Analysis (EDA)
+
+Train Machine Learning classification models
+
+Evaluate model performance using metrics
+
+Predict blood pressure condition based on input features
+
+🧠 Machine Learning Workflow
+
+Data Collection
+
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis
+
+Feature Selection
+
+Model Training
+
+Model Evaluation
+
+Prediction
+
+🛠️ Technologies Used
+
+Python
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+Jupyter Notebook
+
+📂 Project Structure
+Blood_Pressure_using_ml/
+│
+├── Blood_pressure.ipynb     # Main Jupyter Notebook
+├── README.md                # Project Documentation
+📊 Model Evaluation Metrics
+
+The model performance is evaluated using:
+
+Accuracy Score
+
+Confusion Matrix
+
+Precision
+
+Recall
+
+F1-Score
+
+▶️ How to Run the Project
+
+Clone the repository:
+
+git clone https://github.com/your-username/Blood_Pressure_using_ml.git
+
+Navigate to the project directory:
+
+cd Blood_Pressure_using_ml
+
+Install required dependencies:
+
+pip install -r requirements.txt
+
+Open the Jupyter Notebook:
+
+jupyter notebook
+📈 Expected Outcome
+
+The trained model predicts whether a person is likely to have high blood pressure based on given input features.
+
+This project can be extended into:
+
+A Web Application (Flask/Streamlit)
+
+A Healthcare Dashboard
+
+Integration with wearable devices
+
+🔮 Future Improvements
+
+Hyperparameter tuning
+
+Cross-validation
+
+Deployment using Flask or Streamlit
+
+Model comparison with advanced algorithms
+
+Real-time data integration
+
+📌 Conclusion
+
+This project demonstrates how Machine Learning can assist in early detection of health conditions like hypertension. It highlights the importance of data-driven healthcare solutions and predictive analytics in medical applications.
+
+👩‍💻 Author
+
+Khushi Kalwani
+Machine Learning Enthusiast | AI Developer
