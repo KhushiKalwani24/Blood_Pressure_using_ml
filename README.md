@@ -95,23 +95,23 @@ jupyter notebook
 
 ->This project can be extended into:
 
-A Web Application (Flask/Streamlit)
+->A Web Application (Flask/Streamlit)
 
-A Healthcare Dashboard
+->A Healthcare Dashboard
 
-Integration with wearable devices
+->Integration with wearable devices
 
 🔮 Future Improvements
 
-Hyperparameter tuning
+->Hyperparameter tuning
 
-Cross-validation
+->Cross-validation
 
-Deployment using Flask or Streamlit
+->Deployment using Flask or Streamlit
 
-Model comparison with advanced algorithms
+->Model comparison with advanced algorithms
 
-Real-time data integration
+->Real-time data integration
 
 📌 Conclusion
 
