@@ -37,19 +37,19 @@ The goal is to demonstrate a complete ML workflow — from data preprocessing to
 
 🛠️ Technologies Used
 
-Python
+1. Python
 
-NumPy
+2. NumPy
 
-Pandas
+3. Pandas
 
-Matplotlib
+4. Matplotlib
 
-Seaborn
+5. Seaborn
 
-Scikit-learn
+6. Scikit-learn
 
-Jupyter Notebook
+7. Jupyter Notebook
 
 📂 Project Structure
 Blood_Pressure_using_ml/
