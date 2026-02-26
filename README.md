@@ -9,15 +9,15 @@ The goal is to demonstrate a complete ML workflow — from data preprocessing to
 
 🚀 Project Objectives
 
-Perform data preprocessing and cleaning
+1. Perform data preprocessing and cleaning
 
-Conduct Exploratory Data Analysis (EDA)
+2. Conduct Exploratory Data Analysis (EDA)
 
-Train Machine Learning classification models
+3. Train Machine Learning classification models
 
-Evaluate model performance using metrics
+4. Evaluate model performance using metrics
 
-Predict blood pressure condition based on input features
+5. Predict blood pressure condition based on input features
 
 🧠 Machine Learning Workflow
 
