@@ -1,4 +1,6 @@
-🩺 Blood Pressure Prediction using Machine Learning\n
+🩺 Blood Pressure Prediction using Machine Learning
+
+
 📌 Overview
 
 High blood pressure (Hypertension) is one of the leading causes of heart diseases and strokes worldwide. Early prediction and monitoring can significantly reduce health risks.
