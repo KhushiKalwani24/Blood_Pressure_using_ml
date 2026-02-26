@@ -21,19 +21,19 @@ The goal is to demonstrate a complete ML workflow — from data preprocessing to
 
 🧠 Machine Learning Workflow
 
-Data Collection
+1. Data Collection
 
-Data Cleaning & Preprocessing
+2. Data Cleaning & Preprocessing
 
-Exploratory Data Analysis
+3. Exploratory Data Analysis
 
-Feature Selection
+4. Feature Selection
 
-Model Training
+5. Model Training
 
-Model Evaluation
+6. Model Evaluation
 
-Prediction
+7. Prediction
 
 🛠️ Technologies Used
 
